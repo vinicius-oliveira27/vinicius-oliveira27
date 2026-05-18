@@ -1,16 +1,155 @@
-## Hi there 👋
+# Olá, eu sou Vinícius 👋
 
-<!--
-**vinicius-oliveira27/vinicius-oliveira27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação  
+Interesse em Inteligência Artificial, Engenharia de Software e Desenvolvimento de Sistemas  
+Atualmente aprofundando conhecimentos em Estrutura de Prompt, IA aplicada, Lógica de Programação e Git/GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 Sobre mim
+
+Sou estudante de tecnologia com foco em desenvolvimento contínuo e construção de projetos práticos.  
+Utilizo o GitHub como ambiente de aprendizado, documentação técnica e evolução profissional.
+
+Tenho interesse em:
+- Inteligência Artificial aplicada ao desenvolvimento
+- Estruturação de Prompts Técnicos
+- Desenvolvimento Backend
+- Desenvolvimento web
+- Arquitetura de Sistemas
+- Automação e produtividade com IA
+- UI/UX
+
+Busco transformar conhecimento técnico em projetos organizados, documentados e escaláveis.
+
+---
+
+# 🛠️ Habilidades Técnicas
+
+## Linguagens e Tecnologias
+- Python
+- SQL
+
+## Ferramentas
+- Git
+- GitHub
+- VS Code
+- Figma
+- Colab
+- Miro
+
+
+## Conceitos
+- Lógica de Programação
+- Estrutura de Dados
+- APIs REST
+- Versionamento
+- Engenharia de Prompt
+- Documentação Técnica
+
+---
+
+# IA e Prompts Técnicos no meu fluxo de trabalho
+
+Utilizo Inteligência Artificial como ferramenta estratégica para acelerar aprendizado, prototipação e resolução de problemas técnicos.
+
+## Como utilizo IA no desenvolvimento:
+- Estruturação de prompts técnicos para análise e geração de código
+- Apoio na documentação de APIs e sistemas
+- Explicação de conceitos complexos de engenharia de software
+- Revisão de lógica e arquitetura de projetos
+- Criação de fluxos automatizados de aprendizado
+
+## Meu objetivo com IA:
+Utilizar IA como suporte de produtividade e engenharia, mantendo compreensão técnica real sobre cada solução implementada.
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🔹 Chatbot com IA
+Sistema de chatbot utilizando integração com APIs e processamento de prompts.
+
+### Tecnologias:
+- Python
+- API REST
+- JSON
+- Git/GitHub
+
+### Funcionalidades:
+- Respostas automatizadas
+- Estruturação de prompts
+- Organização de contexto
+- Tratamento de requisições
+
+---
+
+## 🔹 Sistema de Gerenciamento
+Projeto voltado para controle de usuários e autenticação.
+
+### Tecnologias:
+- Python
+- SQL
+- Spring Boot
+
+### Funcionalidades:
+- CRUD
+- Login
+- Banco de dados
+- Versionamento completo
+
+---
+
+## 🔹 Portfólio Web
+Página pessoal desenvolvida para apresentação profissional.
+
+### Tecnologias:
+- Python
+
+---
+
+# 📊 Estatísticas de Contribuição
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+- Engenharia de Prompt
+- Prototipagem de sistemas computacionais
+- Estruturas de Dados
+- Interface e Jornada do Usuário
+- Arquitetura Backend
+- Inteligência Artificial aplicada ao desenvolvimento
+
+---
+
+# 🎯 Objetivos Profissionais
+
+- Construir projetos escaláveis e bem documentados
+- Evoluir em Engenharia de Software
+- Atuar com IA aplicada ao desenvolvimento
+- Desenvolver soluções eficientes e organizadas
+- Contribuir com projetos open source futuramente
+
+---
+
+# 📫 Contato
+
+📧 Email: vini.voaaraujoooo@gmail.com 
+💼 LinkedIn: Vinícius Oliveira (https://www.linkedin.com/in/vin%C3%ADcius-oliveira-b70b3140b/)  
+🌐 Portfólio:
+
+---
+
+# 🚀 Filosofia de aprendizado
+
+Acredito que consistência, documentação e prática valem mais do que quantidade de projetos.  
+Meu foco é construir soluções organizadas, compreensíveis e evolutivas enquanto desenvolvo maturidade técnica.
