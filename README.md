@@ -6,7 +6,7 @@ Atualmente aprofundando conhecimentos em Estrutura de Prompt, IA aplicada, Lógi
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Sou estudante de tecnologia com foco em desenvolvimento contínuo e construção de projetos práticos.  
 Utilizo o GitHub como ambiente de aprendizado, documentação técnica e evolução profissional.
@@ -24,7 +24,7 @@ Busco transformar conhecimento técnico em projetos organizados, documentados e 
 
 ---
 
-# 🛠️ Habilidades Técnicas
+# Habilidades Técnicas
 
 ## Linguagens e Tecnologias
 - Python
@@ -65,9 +65,9 @@ Utilizar IA como suporte de produtividade e engenharia, mantendo compreensão t�
 
 ---
 
-# 📌 Projetos em Destaque
+# Projetos em Destaque
 
-## 🔹 Chatbot com IA
+## Chatbot com IA
 Sistema de chatbot utilizando integração com APIs e processamento de prompts.
 
 ### Tecnologias:
@@ -84,7 +84,7 @@ Sistema de chatbot utilizando integração com APIs e processamento de prompts.
 
 ---
 
-## 🔹 Sistema de Gerenciamento
+## Sistema de Gerenciamento
 Projeto voltado para controle de usuários e autenticação.
 
 ### Tecnologias:
@@ -100,7 +100,7 @@ Projeto voltado para controle de usuários e autenticação.
 
 ---
 
-## 🔹 Portfólio Web
+## Portfólio Web
 Página pessoal desenvolvida para apresentação profissional.
 
 ### Tecnologias:
@@ -108,7 +108,7 @@ Página pessoal desenvolvida para apresentação profissional.
 
 ---
 
-# 📊 Estatísticas de Contribuição
+# Estatísticas de Contribuição
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Página pessoal desenvolvida para apresentação profissional.
 
 ---
 
-# 📚 Atualmente estudando
+# Atualmente estudando
 
 - Engenharia de Prompt
 - Prototipagem de sistemas computacionais
@@ -131,7 +131,7 @@ Página pessoal desenvolvida para apresentação profissional.
 
 ---
 
-# 🎯 Objetivos Profissionais
+# Objetivos Profissionais
 
 - Construir projetos escaláveis e bem documentados
 - Evoluir em Engenharia de Software
@@ -141,7 +141,7 @@ Página pessoal desenvolvida para apresentação profissional.
 
 ---
 
-# 📫 Contato
+# Contato
 
 📧 Email: vini.voaaraujoooo@gmail.com 
 💼 LinkedIn: Vinícius Oliveira (https://www.linkedin.com/in/vin%C3%ADcius-oliveira-b70b3140b/)  
@@ -149,7 +149,7 @@ Página pessoal desenvolvida para apresentação profissional.
 
 ---
 
-# 🚀 Filosofia de aprendizado
+# Filosofia de aprendizado
 
 Acredito que consistência, documentação e prática valem mais do que quantidade de projetos.  
 Meu foco é construir soluções organizadas, compreensíveis e evolutivas enquanto desenvolvo maturidade técnica.
