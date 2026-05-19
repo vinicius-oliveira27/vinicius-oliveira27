@@ -42,7 +42,7 @@ Busco transformar conhecimento técnico em projetos organizados, documentados e 
 ## Conceitos
 - Lógica de Programação
 - Estrutura de Dados
-- APIs REST
+- API Key
 - Versionamento
 - Engenharia de Prompt
 - Documentação Técnica
@@ -68,12 +68,11 @@ Utilizar IA como suporte de produtividade e engenharia, mantendo compreensão t�
 # Projetos em Destaque
 
 ## Chatbot com IA
-Sistema de chatbot utilizando integração com APIs e processamento de prompts.
+Sistema de chatbot utilizando integração com APIs e processamento de prompts, especialista em resposta sobre um jogo específico.
 
 ### Tecnologias:
 - Python
-- API REST
-- JSON
+- API
 - Git/GitHub
 
 ### Funcionalidades:
@@ -85,26 +84,16 @@ Sistema de chatbot utilizando integração com APIs e processamento de prompts.
 ---
 
 ## Sistema de Gerenciamento
-Projeto voltado para controle de usuários e autenticação.
+Projeto voltado para uso de chatbot para solução de dúvidas.
 
 ### Tecnologias:
 - Python
-- SQL
 - Spring Boot
 
 ### Funcionalidades:
-- CRUD
 - Login
 - Banco de dados
 - Versionamento completo
-
----
-
-## Portfólio Web
-Página pessoal desenvolvida para apresentação profissional.
-
-### Tecnologias:
-- Python
 
 ---
 
