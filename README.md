@@ -1,4 +1,4 @@
-# Olá, eu sou Vinícius 👋
+# Vinícius Oliveira Araújo
 
 Estudante de Ciência da Computação  
 Interesse em Inteligência Artificial, Engenharia de Software e Desenvolvimento de Sistemas  
