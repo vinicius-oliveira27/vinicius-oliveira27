@@ -42,8 +42,6 @@ Busco transformar conhecimento técnico em projetos organizados, documentados e 
 ## Conceitos
 - Lógica de Programação
 - Estrutura de Dados
-- API Key
-- Versionamento
 - Engenharia de Prompt
 - Documentação Técnica
 
