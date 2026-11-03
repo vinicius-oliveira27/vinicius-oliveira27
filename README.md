@@ -1,130 +1,101 @@
-# Vinícius Oliveira Araújo
+<div align="center">
 
-Estudante de Ciência da Computação  
-Interesse em Inteligência Artificial, Engenharia de Software e Desenvolvimento de Sistemas  
-Atualmente aprofundando conhecimentos em Estrutura de Prompt, IA aplicada, Lógica de Programação e Git/GitHub  
+<img
+ width="100%"
+ src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=true&text=Vin%C3%ADcius+Oliveira+Ara%C3%BAjo&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68">
 
----
+  <h3>Estudante de Ciência da Computação</h3>
 
-# Sobre mim
+  <p>
+    C • Python • HTML • CSS • JS • MySQL
+  </p>
 
-Sou estudante de tecnologia com foco em desenvolvimento contínuo e construção de projetos práticos.  
-Utilizo o GitHub como ambiente de aprendizado, documentação técnica e evolução profissional.
+  <p>
+    <a href="https://www.linkedin.com/in/vinícius-oliveiraara" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.behance.net/vinciusarajo41" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+    </a>
+    <a href="mailto:vini.voaaraujoooo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
 
-Tenho interesse em:
-- Inteligência Artificial aplicada ao desenvolvimento
-- Estruturação de Prompts Técnicos
-- Desenvolvimento Backend
-- Desenvolvimento web
-- Arquitetura de Sistemas
-- Automação e produtividade com IA
-- UI/UX
-
-Busco transformar conhecimento técnico em projetos organizados, documentados e escaláveis.
-
----
-
-# Habilidades Técnicas
-
-## Linguagens e Tecnologias
-- Python
-- SQL
-
-## Ferramentas
-- Git
-- GitHub
-- VS Code
-- Figma
-- Colab
-- Miro
-
-
-## Conceitos
-- Lógica de Programação
-- Estrutura de Dados
-- Engenharia de Prompt
-- Documentação Técnica
+</div>
 
 ---
 
-# IA e Prompts Técnicos no meu fluxo de trabalho
+## Sobre mim
 
-Utilizo Inteligência Artificial como ferramenta estratégica para acelerar aprendizado, prototipação e resolução de problemas técnicos.
+Sou estudante de **Ciência da Computação** na **UDF**, atualmente no **2º semestre**, com previsão de conclusão em **dezembro de 2029**.
 
-## Como utilizo IA no desenvolvimento:
-- Estruturação de prompts técnicos para análise e geração de código
-- Apoio na documentação de APIs e sistemas
-- Explicação de conceitos complexos de engenharia de software
-- Revisão de lógica e arquitetura de projetos
-- Criação de fluxos automatizados de aprendizado
-
-## Meu objetivo com IA:
-Utilizar IA como suporte de produtividade e engenharia, mantendo compreensão técnica real sobre cada solução implementada.
+Tenho interesse em **desenvolvimento de software, desenvolvimento web, inteligência artificial e banco de dados**. Venho aprimorando meus conhecimentos por meio de projetos acadêmicos, buscando transformar conceitos estudados em soluções práticas.
 
 ---
 
-# Projetos em Destaque
+## Projetos em destaque
 
-## Chatbot com IA
-Sistema de chatbot utilizando integração com APIs e processamento de prompts, especialista em resposta sobre um jogo específico.
+### Sistema de Gestão de Estoque
 
-### Tecnologias:
-- Python
-- API
-- Git/GitHub
+Sistema desenvolvido, em grupo, na linguagem **Python**, para controle e gerenciamento de produtos.
 
-### Funcionalidades:
-- Respostas automatizadas
-- Estruturação de prompts
-- Organização de contexto
-- Tratamento de requisições
+**Principais funcionalidades:**
 
----
+* Cadastro e atualização de produtos, entrada e saída de estoque, consulto de produtos e relatórios de estoque junto da integração com banco de dados **SQLite3**.
 
-## Sistema de Gerenciamento
-Projeto voltado para uso de chatbot para solução de dúvidas.
+**Tecnologias:**
 
-### Tecnologias:
-- Python
-- Spring Boot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
-### Funcionalidades:
-- Login
-- Banco de dados
-- Versionamento completo
+**[Acessar projeto](https://github.com/vinicius-oliveira27/gestao_de_estoque)**
 
 ---
 
-# Atualmente estudando
+### Pragmata AI - Chatbot Especialista 
 
-- Engenharia de Prompt
-- Prototipagem de sistemas computacionais
-- Estruturas de Dados
-- Interface e Jornada do Usuário
-- Arquitetura Backend
-- Inteligência Artificial aplicada ao desenvolvimento
+Chatbot desenvolvido para consultar informações sobre o jogo **Pragmata** da *Capcom* e fornecer respostas contextualizadas ao usuário. O projeto utiliza uma **LLM (Llama 3.3 70B)** integrada por meio do **LangChain** e da infraestrutura da **Groq**, além de consumir dados da plataforma da Wiki do jogo.
 
----
+**Principais recursos:**
 
-# Objetivos Profissionais
+* Consulta de informações sobre jogos/ferramentas, Coleta de dados da Wiki e integrações com modelos de linguagem.
 
-- Construir projetos escaláveis e bem documentados
-- Evoluir em Engenharia de Software
-- Atuar com IA aplicada ao desenvolvimento
-- Desenvolver soluções eficientes e organizadas
-- Contribuir com projetos open source futuramente
+**Tecnologias:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square\&logo=groq\&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square\&logo=meta\&logoColor=white)
+
+**[Acessar projeto](https://github.com/vinicius-oliveira27/Chatbot)**
 
 ---
 
-# Contato
+## 🛠️ Stacks
 
-📧 Email: vini.voaaraujoooo@gmail.com 
-💼 LinkedIn: Vinícius Oliveira (https://www.linkedin.com/in/vin%C3%ADcius-oliveira-b70b3140b/)  
-🌐 Portfólio:
+### Linguagens e Desenvolvimento
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,sqlite" />
+</p>
 
-# Filosofia de aprendizado
+### Ferramentas
 
-Acredito que consistência, documentação e prática valem mais do que quantidade de projetos.  
-Meu foco é construir soluções organizadas, compreensíveis e evolutivas enquanto desenvolvo maturidade técnica.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### Inteligência Artificial
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68"
+/>
+
+</div>
