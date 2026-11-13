@@ -2,7 +2,7 @@
 
 <img
  width="100%"
- src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=true&text=Vin%C3%ADcius+Oliveira+Ara%C3%BAjo&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68">
+ src="https://capsule-render.vercel.app/api?type=speech&height=300&green=gradient&section=header&reversal=true&text=Vin%C3%ADcius+Oliveira+Ara%C3%BAjo&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68">
 
   <h3>Estudante de Ciência da Computação</h3>
 
@@ -95,7 +95,7 @@ Chatbot desenvolvido para consultar informações sobre o jogo **Pragmata** da *
 </p>
 
 <img
- src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68"
+ src="https://capsule-render.vercel.app/api?type=waving&height=200&green=gradient&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=68"
 />
 
 </div>
